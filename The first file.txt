@@ -5,3 +5,5 @@ This is the first file, which I am uploading into my GitHub account
 Now i am adding some more lines, to know how "modifications" done in here
 
 Here I am gonna add some few more lines and call as modify 2
+
+From here, I am gonna create a new branch and see the "insights" how it looks
